@@ -1,0 +1,12 @@
+{
+  "name": "differentiation",
+  "short_description": "to calc slope of a function at a point",
+  "version": "0.0.1",
+  "author": "Terroid",
+  "email": "skandabhairava@gmail.com",
+  "author_github": "https://github.com/skandabhairava",
+  "entry_point": "differentiation.py",
+  "working_directory": "src",
+  "github": "",
+  "license": "MIT"
+}
